@@ -1,0 +1,45 @@
+# Title
+
+Application name: Cgpa Calculator
+
+Application type: Desktop application
+
+# Idea
+
+A Cgpa Calculator or An academic course organizer is just for keeping track of a student academic progress.
+
+# Programing language
+
+	java
+
+# Top features/functionalities of the project
+
+	1. user can register, sign in, sign out
+	2. view semester-wise GPA
+	3. view current CGPA
+	4. view higst GPA
+	5. view list of completed courses 
+	6. add course related information
+	7. update/delete course information
+	8. view/update the grading system
+	9. veiw subject gpa below 2.00 / (grade C)
+	10.pre advising for next semester
+	11.view transcript
+	
+	
+	
+# Operating system: Any
+
+# References: 
+		https://github.com/mehadihn/CGPACalculator
+		https://github.com/eddyddoneyoh/CGPA-Calculator
+
+# Team Information
+
+Name			NSU ID
+1.Arpan Goswami	1620719042
+2.MD. Amjad Hossen	1632698042
+                   
+# Links to materials:                 
+                   
+                   https://github.com/ah-rana/Cgpa-Calculator
