@@ -30,7 +30,12 @@ A Cgpa Calculator or An academic course organizer is just for keeping track of a
 	
 	
 	
-# Operating system: Any
+# Operating system: Windows,linux
+
+#How to use 
+
+	You have to install the application into desktop.
+
 
 # Tool for devolop this software
 
